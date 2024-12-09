@@ -151,12 +151,9 @@ Publish the website in the given URL.
 </body>
 </html>
 ~~~
-# SERVER SIDE PROCESSING:
-![Screenshot 2024-12-09 082207](https://github.com/user-attachments/assets/76fc9ff4-01bb-41c6-95dd-01640dd3a7ca)
-
-# HOMEPAGE:
-
-![Screenshot 2024-12-09 081933](https://github.com/user-attachments/assets/bb81fbac-7d6b-4f09-ac13-abc872270ec4)
+# OUTPUT
+![x](https://github.com/user-attachments/assets/1e523e35-400d-4c94-a641-b18bd5aa1f26)
+![p](https://github.com/user-attachments/assets/9c4ad972-22f7-4cef-b889-32f76fd29c6f)
 
 # RESULT:
 The program for performing server side processing is completed successfully.
